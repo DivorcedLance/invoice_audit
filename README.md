@@ -58,8 +58,8 @@ Una vez procesados, los documentos se pueden inspeccionar en detalle para audito
 
 1.  **Clonar el repositorio**
     ```bash
-    git clone [https://github.com/tu-usuario/sva-audit-system.git](https://github.com/tu-usuario/sva-audit-system.git)
-    cd sva-audit-system
+    git clone [https://github.com/DivorcedLance/invoice_audit](https://github.com/DivorcedLance/invoice_audit)
+    cd invoice_audit
     ```
 
 2.  **Configurar entorno virtual**
